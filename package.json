@@ -1,0 +1,25 @@
+{
+  "name": "@freda46/freed-id",
+  "version": "1.0.0",
+  "description": "freed-id",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freda46/freed-id.git"
+  },
+  "keywords": [
+    "freed-id"
+  ],
+  "author": "Freda46",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freda46/freed-id/issues"
+  },
+  "homepage": "https://github.com/Freda46/freed-id#readme",
+  "dependencies": {
+    "freed-id": "^1.0.0"
+  }
+}
